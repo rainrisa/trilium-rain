@@ -17,7 +17,7 @@ const TPL = `
                 <table class="table table-borderless text-nowrap">
                     <tr>
                         <th>${t("about.homepage")}</th>
-                        <td><a href="https://github.com/TriliumNext/Notes" class="external">https://github.com/TriliumNext/Notes</a></td>
+                        <td><a href="https://github.com/rainrisa/trilium-rain" class="external">https://github.com/rainrisa/trilium-rain</a></td>
                     </tr>
                     <tr>
                         <th>${t("about.app_version")}</th>
